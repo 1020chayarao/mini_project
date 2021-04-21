@@ -1,2 +1,2 @@
 # mini_project
-Under development
+Recognition of kannada handwritten digits 
